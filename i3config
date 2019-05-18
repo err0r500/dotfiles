@@ -175,4 +175,4 @@ bindsym $mod+Shift+period exec i3lock
 #exec --no-startup-id synclient NaturalScrolling=1 VertScrollDelta=-113
 exec --no-startup-id synclient NaturalScrolling=1 HorizEdgeScroll=1 VertEdgeScroll=1 VertScrollDelta=-113
 exec --no-startup-id xset r rate 200 25
-exec --no-startup-id feh --bg-fill ~/Pictures/texture-wallpaper-10.jpg
+exec --no-startup-id feh --bg-fill ~/Pictures/wallpaper-10.jpg
